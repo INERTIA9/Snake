@@ -1,6 +1,6 @@
 
 public class uc4 {
-	public static void main(String[] args) {
+  public static void main(String[] args) {
 		int position=0;
 		while(position<=100) {
 		int snake= (int) Math.floor(Math.random() * 10) %2;
@@ -19,6 +19,7 @@ public class uc4 {
 			
 		}
 		System.out.println("current postion  is: " + position);
+
 }
-	}
+  }
 }
