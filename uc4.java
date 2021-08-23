@@ -19,7 +19,7 @@ public class uc4 {
 			
 		}
 		System.out.println("current postion  is: " + position);
-	}}
-}
 
+}
+  }
 }
